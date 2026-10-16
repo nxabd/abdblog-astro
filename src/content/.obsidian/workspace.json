@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "47b7f4ac04d98212",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c80c2640c954f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "649ce81c7189e8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/05-markdown-syntax/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "e97ec8f82432a007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/09-create-vault-blog-using-obsidian/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f535b420803d7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e91ae621c7d3c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8629104ac9f6cc8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "81c8152015477b75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "178823c4c1f3714e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f91709116e043a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "431d5008413b8144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee3cbd53fb7a7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/09-create-vault-blog-using-obsidian/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cba59b6fb11547d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/09-create-vault-blog-using-obsidian/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "77662471fb4d1fc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e96ee52f149e911e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ce1569c4d69995d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/09-create-vault-blog-using-obsidian/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e97ec8f82432a007",
+  "lastOpenFiles": [
+    "Clippings/Totorial Debian  Cara Install Mariadbmysql di linux debian.md",
+    "blog/10-clipping-astro-with-extention-chrome/index.md",
+    "blog/10-clipping-astro-with-extention-chrome/Totorial Debian _ Cara Install Mariadb_mysql di linux debian.md",
+    "blog/10-clipping-astro-with-extention-chrome",
+    "clippings/Totorial Debian  Cara Install Mariadbmysql di linux debian.md",
+    "clippings",
+    "blog/09-create-vault-blog-using-obsidian/index.md",
+    "Clippings",
+    "work/asia-print-ftocopy.md",
+    "work/graha-ventura-indonesia.md",
+    "blog/08-draft-example/index.md",
+    "blog/05-markdown-syntax/index.md",
+    "blog/07-year-sorting-example/index.md",
+    "blog/09-create-vault-blog-using-obsidian/hero-image.png",
+    "blog/09-create-vault-blog-using-obsidian/image.png",
+    "blog/09-create-vault-blog-using-obsidian",
+    "blog/09-test-create-note-from-vault-obsidian/index.md",
+    "blog/05-markdown-syntax/spongebob.webp",
+    "blog/09-test-create-note-from-vault-obsidian/Screenshot From 2026-10-16 19-14-36.png",
+    "blog/09-test-create-note-from-vault-obsidian",
+    "Untitled"
+  ]
+}

@@ -5,4 +5,5 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   integrations: [mdx(), sitemap(), tailwind()],
+  site: "whdnotes.hyabdwhd.workers.dev",
 });
